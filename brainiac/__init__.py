@@ -26,10 +26,6 @@ def get_secret():
 
 
 def create_app():
-    secrets = get_secret()
-    GROQ_API_KEY = secrets["GROQ_API_KEY"]
-    os.environ["GROQ_API_KEY"] = GROQ_API_KEY
-    print(GROQ_API_KEY)
     app = Flask(__name__)
     app.config["SECRET_KEY"] = "SonalSolaskar"
     secrets = get_secret()
