@@ -1,7 +1,3 @@
-transformers
-torch
-sentencepiece
-accelerate
 langchain
 faiss-cpu
 openai
@@ -15,3 +11,4 @@ flask
 flask-cors
 markdown
 python-dotenv
+boto3
