@@ -42,9 +42,18 @@ It integrates multiple smart tools like **PDF Summarizer, Quiz Generator, Note D
 ![WhatsApp Image 2025-09-19 at 10 56 32_6ef13c5f](https://github.com/user-attachments/assets/257f3469-54df-4772-a668-b6b395b81e0c)
 
 
-Results
+---
+
+## 📊 Results
 - Fast summarization of lengthy documents.  
 - Reliable automatic quiz generation for self-assessment.  
 - Accurate digitization of handwritten notes into editable/LaTeX text.  
 - Enhanced productivity and reduced academic workload.  
+
+---
+
+## 👨‍💻 Authors
+- Sonal Solaskar  
+- Rutuja Bangera  
+- Om Alve  
 
